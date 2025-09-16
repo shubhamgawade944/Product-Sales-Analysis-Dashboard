@@ -28,7 +28,7 @@ It provides interactive insights into revenue, sales trends, product categories,
 3. Connect to your data source if needed (sample data included in PBIX).
 
 ## Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## Author
 👤 **Shubham M. Gawade**  
